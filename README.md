@@ -1,0 +1,1 @@
+# Varyans_bernoulli_binomials
